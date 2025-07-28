@@ -439,6 +439,8 @@ legend{
     }
     .input{
         width: 350px;
+        background-image:none;
+        background-color:"transparent";
     }
 
 }
